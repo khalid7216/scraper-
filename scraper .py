@@ -22,8 +22,8 @@ import os
 # ============================================================
 #  YAHAN APNI DETAILS BHARO
 # ============================================================
-EMAIL    = "your_email@example.com"       # <-- apna email
-PASSWORD = "your_password_here"           # <-- apna password
+EMAIL    = "khalidsanawer2@gmail.com"       # <-- apna email
+PASSWORD = "MzmG7f*G)D"           # <-- apna password
 
 # Jis URL se scrape karna hai (koi bhi FlexJobs search URL paste karo)
 SEARCH_URL = "https://www.flexjobs.com/search?searchkeyword=Video%20Editor&usecLocation=true&fromHeader=true"
